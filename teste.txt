@@ -1,18 +1,9 @@
-<<<<<<< HEAD
 Testando repo 12
 a
 b
 c
 d
-=======
-Testando repo 123
-1
-2
-3
-4
-5
-6
-7
-
-
->>>>>>> funcao_x
+a
+c
+e
+d
